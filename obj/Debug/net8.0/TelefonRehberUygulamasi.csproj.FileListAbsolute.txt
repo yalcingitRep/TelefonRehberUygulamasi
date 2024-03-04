@@ -1,0 +1,14 @@
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\TelefonRehberUygulamasi\bin\Debug\net8.0\TelefonRehberUygulamasi.exe
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\TelefonRehberUygulamasi\bin\Debug\net8.0\TelefonRehberUygulamasi.deps.json
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\TelefonRehberUygulamasi\bin\Debug\net8.0\TelefonRehberUygulamasi.runtimeconfig.json
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\TelefonRehberUygulamasi\bin\Debug\net8.0\TelefonRehberUygulamasi.dll
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\TelefonRehberUygulamasi\bin\Debug\net8.0\TelefonRehberUygulamasi.pdb
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\TelefonRehberUygulamasi\obj\Debug\net8.0\TelefonRehberUygulamasi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\TelefonRehberUygulamasi\obj\Debug\net8.0\TelefonRehberUygulamasi.AssemblyInfoInputs.cache
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\TelefonRehberUygulamasi\obj\Debug\net8.0\TelefonRehberUygulamasi.AssemblyInfo.cs
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\TelefonRehberUygulamasi\obj\Debug\net8.0\TelefonRehberUygulamasi.csproj.CoreCompileInputs.cache
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\TelefonRehberUygulamasi\obj\Debug\net8.0\TelefonRehberUygulamasi.dll
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\TelefonRehberUygulamasi\obj\Debug\net8.0\refint\TelefonRehberUygulamasi.dll
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\TelefonRehberUygulamasi\obj\Debug\net8.0\TelefonRehberUygulamasi.pdb
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\TelefonRehberUygulamasi\obj\Debug\net8.0\TelefonRehberUygulamasi.genruntimeconfig.cache
+C:\Users\MrYalcin\OneDrive\Desktop\practics_for_dotnet\TelefonRehberUygulamasi\obj\Debug\net8.0\ref\TelefonRehberUygulamasi.dll

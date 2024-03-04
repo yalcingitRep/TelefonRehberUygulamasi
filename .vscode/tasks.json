@@ -1,0 +1,21 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "task": "build C:\\Users\\MrYalcin\\OneDrive\\Desktop\\practics_for_dotnet\\TelefonRehberUygulamasi\\TelefonRehberUygulamasi.csproj",
+            "file": "C:\\Users\\MrYalcin\\OneDrive\\Desktop\\practics_for_dotnet\\TelefonRehberUygulamasi\\TelefonRehberUygulamasi.csproj",
+            "label": "build tel",
+           
+            "type": "dotnet",
+           
+            "problemMatcher": [
+               
+            ],
+            
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            }
+        }
+    ]
+}
